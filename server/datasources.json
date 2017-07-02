@@ -1,12 +1,12 @@
 {
   "mysql": {
-    "host": "localhost",
+    "host": "instancewordpress.crg0nsm10wup.us-west-2.rds.amazonaws.com",
     "port": 3306,
     "url": "",
-    "database": "tallersw",
-    "password": "1234",
+    "database": "sisege",
+    "password": "taller1#sw$",
     "name": "mysql",
-    "user": "root",
+    "user": "taller",
     "connector": "mysql"
   }
 }
