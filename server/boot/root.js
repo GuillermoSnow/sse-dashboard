@@ -5,7 +5,7 @@ module.exports = function(server) {
   // Install a `/` route that returns server status
   var router = server.loopback.Router();
   var ds = server.datasources.mysql;
-
+ // SOY FALSO BACKEND :'V
   router.get('/', server.loopback.status());
 
   router.get('/tiempoObtenerTitulo', (req, res) => {
